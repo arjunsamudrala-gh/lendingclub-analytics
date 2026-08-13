@@ -1,0 +1,5 @@
+fico_quartile,loan_count,min_fico,max_fico,charged_off_count,default_rate_pct
+1,1654,660.0,670.0,494,29.87
+2,1654,670.0,685.0,502,30.35
+3,1653,685.0,710.0,451,27.28
+4,1653,710.0,845.0,371,22.44

@@ -1,0 +1,13 @@
+purpose,loan_count,avg_months_outstanding,median_annualized_return_pct
+credit_card,175296,25.89,6.33
+car,6012,24.03,6.81
+major_purchase,12696,24.11,6.94
+home_improvement,42354,24.32,7.27
+debt_consolidation,437209,24.29,7.47
+medical,6815,23.46,8.29
+vacation,3911,23.41,8.6
+other,33685,23.96,8.62
+small_business,6599,23.51,9.41
+moving,4232,22.55,9.42
+house,2726,21.77,9.5
+renewable_energy,383,22.18,9.79
